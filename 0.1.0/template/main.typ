@@ -1,23 +1,21 @@
-#import "@local/personal-letters:0.1.0":*
+#import "@local/letter:0.1.0": *
 
 #show: briefpapier.with(
   show-absender: false,
   show-ruecksende: false,
   ticks: false,
-  datum: [10.02.2025],
+  // datum: [10.02.2025],
   adresse: [
-    Stadt Bergkamen\
-    Rathausplatz 1\
-    59192 Bergkamen
+    Testadresse\
+    Musterstr. 3
   ],
   referenzen: (
-    ([Meine Zeichen], [00173130]),
-    ([Ihre Zeichen], [PHP-P/NR]),
-    ([Ihr Schreiben vom], [12.08.2024])
+    ([Patient], [00173130]),
+    ([Geburtsdatum], [PHP-P/NR]),
   ),
   betreff: [Lastschriftmandat],
-  // ort: [Waltrop],
-    absender-gruss: [
+  // ort: [Dortmund],
+  absender-gruss: [
     Dr. Benedikt Claus\
     #text(size: 9pt)[Psychologischer Psychotherapeut (VT)]
   ],
