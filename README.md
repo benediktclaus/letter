@@ -1,8 +1,8 @@
-# Simple Typst Letter Template
+# Simple typst Letter Template
 
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
-A simple yet flexible Typst template for standard letters. It is aimed at all Typst users who want to create personal or business letters quickly and easily.
+A simple yet flexible typst template for standard letters. It is aimed at all typst users who want to create personal or business letters quickly and easily.
 
 ## Preview
 
@@ -28,10 +28,10 @@ This template uses the 'Roboto' font from Google Fonts. Please ensure this font 
 
 ## Installation
 
-As this is a local Typst package, the installation is manual.
+As this is a local typst package, the installation is manual.
 
 1. Clone this repository or download it as a ZIP file.
-2. Move the entire project folder into the `local` folder of your Typst packages directory.
+2. Move the entire project folder into the `local` folder of your typst packages directory.
 
 The path to the packages directory is typically:
 * **Linux**: `~/.local/share/typst/packages/local/`
