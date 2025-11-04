@@ -1,8 +1,8 @@
 # typst Letter Template
 
-[![GitHub License](https://img.shields.io/github/license/benediktclaus/letter)](LICENSE)
-[![GitHub Release](https://img.shields.io/github/v/release/benediktclaus/letter)](https://github.com/benediktclaus/letter/releases)
-[![GitHub last commit](https://img.shields.io/github/last-commit/benediktclaus/letter)](https://github.com/benediktclaus/letter/commits/main)
+[![GitHub License](https://img.shields.io/github/license/benediktclaus/letter?style=flat-square)](LICENSE)
+[![GitHub Release](https://img.shields.io/github/v/release/benediktclaus/letter?style=flat-square)](https://github.com/benediktclaus/letter/releases)
+[![GitHub last commit](https://img.shields.io/github/last-commit/benediktclaus/letter?style=flat-square)](https://github.com/benediktclaus/letter/commits/main)
 
 A simple yet flexible `typst` template for creating standard personal or business letters.
 
