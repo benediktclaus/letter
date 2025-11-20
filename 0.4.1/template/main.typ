@@ -1,4 +1,4 @@
-#import "@local/letter:0.4.0": *
+#import "@local/letter:0.4.1": *
 
 #show: briefpapier.with(
   show-absender: false,
