@@ -31,7 +31,7 @@
 
 
   // Abstand von oben
-  block(width: 100%, height: 15mm, spacing: 0mm)
+  block(width: 100%, height: 20mm, spacing: 0mm)
 
 
   // Adresse und Absender
